@@ -13,7 +13,7 @@
 
 # My works
 <p align="left"> 
-  <video height="150px" src="https://github.com/user-attachments/assets/5aedfe55-0d25-40cf-b019-44a4447a0556" controls></video>
+  <video height="150px" width="200px"src="https://github.com/user-attachments/assets/5aedfe55-0d25-40cf-b019-44a4447a0556" controls></video>
 </p>
 
 
