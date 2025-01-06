@@ -1,4 +1,4 @@
-# 💫 Riku Ogawa from Japan:
+# 	:man_student:  Riku Ogawa from Japan:
 🔭 I’m currently studying computer science and electronics!
 
 
