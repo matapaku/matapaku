@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/28e94742-931b-4642-b0db-b5a07d468cde
 # 	:man_student:  Riku Ogawa from Japan:
 🔭 I’m currently studying computer science and electronics!
 
@@ -21,13 +19,6 @@ https://github.com/user-attachments/assets/28e94742-931b-4642-b0db-b5a07d468cde
 <p align="left"> 
   <video height="150px" width="200px"src="https://github.com/user-attachments/assets/679aa33d-372d-4217-a944-0070332948ca" controls></video>
 </p>
-
-
-
-
-
-
-
 
 
 ## 🏆 GitHub Trophies
