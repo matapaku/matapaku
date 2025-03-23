@@ -11,12 +11,21 @@
 </p>
 
 
+
 # :hammer_and_wrench: My works
 <p align="left"> 
   <video height="150px" width="200px"src="https://github.com/user-attachments/assets/5aedfe55-0d25-40cf-b019-44a4447a0556" controls></video>
 </p>
 
 <p align="left"> 
+  <video height="150px" width="200px"src="https://github.com/user-attachments/assets/184f13cd-0832-408d-b428-f130857bc2a6" controls></video>
+</p>
+
+<p align="left"> 
+  <video height="150px" width="200px"src="https://github.com/user-attachments/assets/a1bbbad9-44ea-4d85-ad3f-b9c9d023af69" controls></video>
+</p>
+
+<p align="right"> 
   <video height="150px" width="200px"src="https://github.com/user-attachments/assets/679aa33d-372d-4217-a944-0070332948ca" controls></video>
 </p>
 
